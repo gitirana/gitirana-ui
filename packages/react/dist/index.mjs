@@ -46,5 +46,11 @@ var colors = {
   pink700: "#be185d"
 };
 
-// src/index.ts
-console.log(colors);
+// src/index.tsx
+import { jsx } from "react/jsx-runtime";
+function App() {
+  return /* @__PURE__ */ jsx("h1", { style: { color: colors.green300 }, children: "Hello World" });
+}
+export {
+  App
+};
