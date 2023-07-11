@@ -1,0 +1,10 @@
+{
+  "name": "@gitirana-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "@gitirana/eslint-config": "^1.0.5",
+    "eslint": "^8.44.0"
+  }
+}

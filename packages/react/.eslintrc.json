@@ -1,0 +1,3 @@
+{
+  "extends": "@gitirana-ui/eslint-config"
+}

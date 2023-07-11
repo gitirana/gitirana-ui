@@ -1,0 +1,4 @@
+{
+  "extends": "@gitirana-ui/ts-config/react.json",
+  "include": ["src"]
+}
